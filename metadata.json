@@ -1,0 +1,5 @@
+{
+  "name": "SoloMeal@KNU",
+  "description": "A web service to help students and locals find solo-dining-friendly restaurants near Kyungpook National University. It provides a list of restaurants rated by their suitability for dining alone.",
+  "requestFramePermissions": []
+}
